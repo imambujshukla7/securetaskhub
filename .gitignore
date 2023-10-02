@@ -1,0 +1,8 @@
+__MACOSX/
+.idea/
+dfx.json
+.idea
+.idea_modules/
+dfx/
+.vscode/
+node_modules/
