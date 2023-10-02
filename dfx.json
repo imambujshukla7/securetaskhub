@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "securetaskhub": {
+      "main": "src/Main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "dfx-pack"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  }
+}
