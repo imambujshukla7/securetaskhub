@@ -1,0 +1,12 @@
+{
+  "name": "securetaskhub",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "dfx start",
+    "deploy": "dfx deploy",
+    "canister": "dfx canister"
+  },
+  "dependencies": {
+    "dfx": ">=0.8.0 <0.9.0"
+  }
+}
